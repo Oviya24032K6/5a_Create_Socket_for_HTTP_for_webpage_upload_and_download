@@ -2,7 +2,6 @@
 ## NAME: OVIYA P
 ## REG NO: 212223110033
 ## AIM :
-## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
 ## Algorithm
 
